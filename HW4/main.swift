@@ -9,3 +9,6 @@ import Foundation
 
 print("Hello, World!")
 
+let name = "Jaelen"
+
+print("\(name) Hello to Swift")
